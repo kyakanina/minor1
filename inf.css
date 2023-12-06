@@ -55,7 +55,7 @@
 
     .text {
         background-color: #9d6ed0;
-        height: 40px;
+        height: fit-content;
         border-radius: 3px;
         border-color: #1070b9;
         text-align: center;
