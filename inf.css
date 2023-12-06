@@ -1,0 +1,73 @@
+    .logo {
+        position: fixed;
+        left: 6px;
+    }
+
+    .menu {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        word-spacing: 0.5cm;
+        width: 100%;
+    }
+
+    .menu {
+        height: 40px;
+        background-color: #dedadf;
+        border-bottom: 2px solid #1070b9;
+        align-self: start;
+        background-size: cover;
+    }
+
+    .menu a:hover,
+    .h-nav a.is-active {
+        color: #fff;
+        background: radial-gradient(#76c9f2, #8c69f6);
+        font-size: 10pt;
+    }
+
+    .a:active {
+        font-style: italic;
+    }
+    
+
+    .os {
+        text-align: right;
+        margin-top: -20px;
+    }
+
+
+    .lc {
+        height: 150px;
+        background-color: white;
+        border-bottom: 2px solid #9238f2;
+        background-size: cover;
+        border-radius: 30px;
+        border-width: 15px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 30px;
+        position: relative;
+        top: 90px;
+    }
+
+    body {
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .text {
+        background-color: #9d6ed0;
+        height: 40px;
+        border-radius: 3px;
+        border-color: #1070b9;
+        text-align: center;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 16pt;
+        text-align: bottom;
+        color: white;
+    }
+
+    .anketa {
+        background-color: rgb(221, 210, 210);
+        margin-top: -25px;
+        height: 273px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
