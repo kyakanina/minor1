@@ -22,7 +22,7 @@ div {
 }
 
 .menu {
-    height: 40px;
+    height: fit-content;
     background-color: #dedadf;
     border-bottom: 2px solid #1070b9;
     align-self: start;
