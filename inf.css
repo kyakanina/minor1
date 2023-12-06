@@ -53,7 +53,7 @@
         background-size: cover;
     }
 
-    .text {
+   .text {
         background-color: #9d6ed0;
         height: fit-content;
         border-radius: 3px;
@@ -68,6 +68,6 @@
     .anketa {
         background-color: rgb(221, 210, 210);
         margin-top: -25px;
-        height: fit-content;
+        height:fit-content;
         font-family: Arial, Helvetica, sans-serif;
     }
