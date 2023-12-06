@@ -66,6 +66,7 @@
     }
 
     .anketa {
+        display: flex;
         background-color: rgb(221, 210, 210);
         margin-top: -25px;
         height: fit-content;
