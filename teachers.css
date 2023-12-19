@@ -3,7 +3,6 @@
     left: 6px;
 }
 
-
 .menu {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     word-spacing: 0.5cm;
@@ -11,7 +10,7 @@
 }
 
 .menu {
-    height: fit-content;
+    height: 40px;
     background-color: #dedadf;
     border-bottom: 2px solid #1070b9;
     align-self: start;
